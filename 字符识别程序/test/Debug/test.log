@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  test.cpp
+c:\users\lhl\desktop\vs新建项目\test\test\test.cpp(46): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+LINK : fatal error LNK1104: 无法打开文件“opencv_world340d.lib”

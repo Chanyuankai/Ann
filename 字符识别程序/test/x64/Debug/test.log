@@ -1,0 +1,12 @@
+﻿  Reconize.cpp
+e:\数据挖掘考试资料\字符识别\字符识别程序\test\reconize.cpp(115): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\数据挖掘考试资料\字符识别\字符识别程序\test\reconize.cpp(156): warning C4018: “<=”: 有符号/无符号不匹配
+e:\数据挖掘考试资料\字符识别\字符识别程序\test\reconize.cpp(165): warning C4018: “<=”: 有符号/无符号不匹配
+e:\数据挖掘考试资料\字符识别\字符识别程序\test\reconize.cpp(179): warning C4018: “<”: 有符号/无符号不匹配
+e:\数据挖掘考试资料\字符识别\字符识别程序\test\reconize.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+e:\数据挖掘考试资料\字符识别\字符识别程序\test\reconize.cpp(263): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\数据挖掘考试资料\字符识别\字符识别程序\test\reconize.cpp(288): warning C4018: “<”: 有符号/无符号不匹配
+e:\数据挖掘考试资料\字符识别\字符识别程序\test\reconize.cpp(298): warning C4018: “<”: 有符号/无符号不匹配
+e:\数据挖掘考试资料\字符识别\字符识别程序\test\reconize.cpp(337): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\数据挖掘考试资料\字符识别\字符识别程序\test\reconize.cpp(330): warning C4715: “xifen”: 不是所有的控件路径都返回值
+  test.vcxproj -> E:\数据挖掘考试资料\字符识别\字符识别程序\x64\Debug\test.exe
